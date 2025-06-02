@@ -20,7 +20,8 @@ This project analyzes housing data to uncover trends and insights in the real es
 
 ## 📁 Project Structure
 
-Housing-Analysis/
+Housing-Analysis
+/
 ├── data/ # Raw or cleaned dataset(s)
 ├── notebook.ipynb # Jupyter notebook with code and analysis
 ├── README.md # Project overview and instructions
