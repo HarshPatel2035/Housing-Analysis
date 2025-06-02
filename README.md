@@ -32,9 +32,3 @@ Housing-Analysis/
 - Correlation between housing price and features like area, location, and number of rooms
 - Trends in housing prices over time or across different regions (if applicable)
 - Detection and treatment of outliers and missing values
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/HarshPatel2035/Housing-Analysis.git
